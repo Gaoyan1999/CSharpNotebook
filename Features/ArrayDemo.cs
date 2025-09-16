@@ -29,6 +29,5 @@ public static class ArrayDemo
         {
             Console.WriteLine(string.Join(", ", row));
         }
-        
     }
 }
