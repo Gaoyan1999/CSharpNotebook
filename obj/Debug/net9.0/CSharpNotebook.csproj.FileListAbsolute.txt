@@ -12,3 +12,4 @@
 /Users/gaoyan/workspace/CSharpNotebook/obj/Debug/net9.0/CSharpNotebook.pdb
 /Users/gaoyan/workspace/CSharpNotebook/obj/Debug/net9.0/CSharpNotebook.genruntimeconfig.cache
 /Users/gaoyan/workspace/CSharpNotebook/obj/Debug/net9.0/ref/CSharpNotebook.dll
+/Users/gaoyan/workspace/CSharpNotebook/obj/Debug/net9.0/CSharpNotebook.sourcelink.json
