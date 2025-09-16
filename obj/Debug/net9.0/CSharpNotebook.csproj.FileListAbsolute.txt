@@ -1,0 +1,14 @@
+/Users/gaoyan/workspace/CSharpNotebook/bin/Debug/net9.0/CSharpNotebook
+/Users/gaoyan/workspace/CSharpNotebook/bin/Debug/net9.0/CSharpNotebook.deps.json
+/Users/gaoyan/workspace/CSharpNotebook/bin/Debug/net9.0/CSharpNotebook.runtimeconfig.json
+/Users/gaoyan/workspace/CSharpNotebook/bin/Debug/net9.0/CSharpNotebook.dll
+/Users/gaoyan/workspace/CSharpNotebook/bin/Debug/net9.0/CSharpNotebook.pdb
+/Users/gaoyan/workspace/CSharpNotebook/obj/Debug/net9.0/CSharpNotebook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gaoyan/workspace/CSharpNotebook/obj/Debug/net9.0/CSharpNotebook.AssemblyInfoInputs.cache
+/Users/gaoyan/workspace/CSharpNotebook/obj/Debug/net9.0/CSharpNotebook.AssemblyInfo.cs
+/Users/gaoyan/workspace/CSharpNotebook/obj/Debug/net9.0/CSharpNotebook.csproj.CoreCompileInputs.cache
+/Users/gaoyan/workspace/CSharpNotebook/obj/Debug/net9.0/CSharpNotebook.dll
+/Users/gaoyan/workspace/CSharpNotebook/obj/Debug/net9.0/refint/CSharpNotebook.dll
+/Users/gaoyan/workspace/CSharpNotebook/obj/Debug/net9.0/CSharpNotebook.pdb
+/Users/gaoyan/workspace/CSharpNotebook/obj/Debug/net9.0/CSharpNotebook.genruntimeconfig.cache
+/Users/gaoyan/workspace/CSharpNotebook/obj/Debug/net9.0/ref/CSharpNotebook.dll
