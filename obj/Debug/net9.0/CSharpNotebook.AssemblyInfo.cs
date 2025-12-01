@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSharpNotebook")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7cbbf21b96ce47a582d72b69e47d93bbb79ccf85")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+efa0515ecd473d70e051178c58836e3095e7668b")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSharpNotebook")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSharpNotebook")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

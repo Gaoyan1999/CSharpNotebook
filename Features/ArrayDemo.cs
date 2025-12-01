@@ -30,4 +30,12 @@ public static class ArrayDemo
             Console.WriteLine(string.Join(", ", row));
         }
     }
+
+    static void sortAndSum(int[] arr)
+    {
+        int sum = arr.Sum();
+        Array.Sort(arr);
+        Console.WriteLine(sum);
+        Console.WriteLine(arr.Length);
+    }
 }
